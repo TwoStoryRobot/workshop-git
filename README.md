@@ -11,6 +11,12 @@ Let's learn some git!
 help build this workshop! You'll see **WIP** scattered about. That just means
 the section is Work In Progress.
 
+## Communication
+
+Git (and github) is not just a tool for version control. It's also a
+communication tool. We should strive to be excellent communicators. We are
+going to practice communicating here in this workshop.
+
 ## Forks
 
 **WIP**
