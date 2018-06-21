@@ -40,3 +40,8 @@ Cons: Easy to write slow queries, hard to scale.
 The backend part of GraphQL
 Pros: separation of logic is easy, easy to add fields, introspection is free.
 Cons: More tooling.
+
+### AWS Lambda
+
+Pros: Don't have to worry about OS or other server admin stuff where you're deploying
+Cons: Very specific to Amazon
