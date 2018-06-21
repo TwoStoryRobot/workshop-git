@@ -29,11 +29,14 @@ Pros:
 * Quick to build
 * adaptable to many use cases
 * easy to learn
-
+* It functions as a middleware serve using Dataloader to efficiently load to the front end
 
 Cons: 
 * Requires additional tooling
 * still new
+* It has a complex structure and may be difficult to learn the structure to fully utilize it
+
+
 
 ### CDD (Component Driven Development)
 
@@ -86,6 +89,7 @@ Cons:
 ### GraphQL
 
 The backend part of GraphQL
+<<<<<<< HEAD
 
 Pros: 
 
@@ -96,3 +100,8 @@ Pros:
 Cons:
 
 * More tooling
+=======
+Pros: separation of logic is easy, easy to add fields, introspection is free.
+
+Cons: More tooling.
+>>>>>>> bb438fdbcbeb472c969e88628522992411a03700
