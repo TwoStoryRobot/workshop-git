@@ -100,3 +100,12 @@ you can easily get code from different repositories.
 **WIP**
 
 Keep track of your things to do.
+
+## History
+
+Git keeps a history of all changes ever made.
+
+> Question: Why would this be helpful?
+
+Use the CLI, figure out what my cat's name is. **Hint**: This file originally
+contained my cat's name.
