@@ -9,3 +9,7 @@ Regular Expressions are a super effective way to deal with parsing text, which c
 [Regex101 is an awesome tool for testing and seeing what your regex does](https://regex101.com)
 Cons: Looks like garbley-gook for beginners.  Some people write un-readable ones.
 
+### Learn Vimscript the Hard Way
+
+Being able to write a custom vim cmd is super handy and this is the place to learn.
+[LearnVimScriptTheHardWay](https://learnvimscriptthehardway.com)
