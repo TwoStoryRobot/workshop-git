@@ -69,5 +69,31 @@ your fellow teammates and your future self.
 
 > Question: What are some examples of good commit messages?
 
+TODO: Discuss the different ways to `git add`
+
+## Pull Requests
+
+**WIP**
+
+Pull requests are when you _request_ that someone _pull_ in your changes to a
+repository. Sometimes they are called _merge requests_ (depending on the
+provider you are using)
+
+1. Push your changes to your fork
+2. Make a pull request (remember to use good communication)
+3. See if someone will merge it in.
+
+## Keeping up to date
+
+> Question: Think about the changes you just made. Where are they?
+
+**WIP** Remotes are just remote repositories. Git keeps these handy for you so
+you can easily get code from different repositories.
+
+1. Add this repository as `upstream`
+2. Pull the upstream changes.
+
+> Question: What's the difference between fetch and pull?
+
 
 
