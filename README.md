@@ -95,5 +95,8 @@ you can easily get code from different repositories.
 
 > Question: What's the difference between fetch and pull?
 
+## Github Issues
 
+**WIP**
 
+Keep track of your things to do.
