@@ -95,6 +95,8 @@ you can easily get code from different repositories.
 
 > Question: What's the difference between fetch and pull?
 
+**WIP** How to track upstream? When to push/pull?
+
 ## Github Issues
 
 **WIP**
