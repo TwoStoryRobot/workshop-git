@@ -64,6 +64,8 @@ your fellow teammates and your future self.
 2. Commit that change.
 3. Add a link to your file from this README file
 4. Commit that change.
+5. Now edit the file and add some things to the top and bottom of the file
+6. Commit only the changes to the bottom of the file
 
 **Note**: Use good communication skills.
 
